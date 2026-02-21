@@ -44,12 +44,13 @@ Train your own SV3D model or simply download our [checkpoints](https://drive.goo
 
 ## Citation
 
-     @software{machaverse-xs,
-       author = {Yi Zhang},
-       title = {Machaverse-XS: A Compact Universe of Masked 3D Objects},
-       month = {October},
-       year = {2024},
-       url = {https://github.com/Jun-Pu/Machaverse-XS}
+    @software{Zhang_Machaverse-XS_A_Compact_2024,
+       author = {Zhang, Yi},
+       month = oct,
+       title = {{Machaverse-XS: A Compact Universe of Masked 3D Objects}},
+       url = {https://github.com/YeeZ93/Machaverse-XS},
+       version = {0.0.1},
+       year = {2024}
     }
 
 
