@@ -42,15 +42,3 @@ Train your own SV3D model or simply download our [checkpoints](https://drive.goo
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/shoe_012_0001.gif" alt="GIF 11" width="200" style="display:inline;"/>
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/shoe_028_0001.gif" alt="GIF 12" width="200" style="display:inline;"/>
 
-## Citation
-
-    @software{Zhang_Machaverse-XS_A_Compact_2024,
-       author = {Zhang, Yi},
-       month = oct,
-       title = {{Machaverse-XS: A Compact Universe of Masked 3D Objects}},
-       url = {https://github.com/YeeZ93/Machaverse-XS},
-       version = {0.0.1},
-       year = {2024}
-    }
-
-
